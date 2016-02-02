@@ -1,4 +1,4 @@
 # hello-world
 tutorial for git
 
-I am just learning how to use this
+I have learned how to use this. Another one
